@@ -1,91 +1,31 @@
-# CSE-335-aarroy32
-CSE 335 Mobile App Development – aarroy32 Project
-Project Overview
+# This is CSE-335 Mobile App Development Project
 
-This repository contains the mobile application project developed by Austin Arroyo for the CSE 335: Mobile Application Development course. The project focuses on creating an intuitive and efficient mobile application designed to enhance user experience, usability, and performance. It demonstrates modern mobile app development practices, including responsive UI design, API integration, and robust state management.
+## Project Overview
+This repository contains the project developed by **Austin Arroyo** for the **CSE 335: Mobile Application Development** course. The project is a **mobile application** designed to provide users with an intuitive and efficient experience. It demonstrates mobile app development best practices such as responsive UI design, data handling, and device integration, making it ideal for academic and professional mobile development projects.
 
+---
 
-Installation
-
+## Installation
 To get started with the project, follow these steps:
 
-Clone the repository:
+1.  Clone the repository:
+    ```bash
+    git clone git@github.com:aarroy32/CSE-335-aarroy32.git
+    ```
 
-git clone git@github.com:aarroy32/CSE-335-aarroy32.git
+2.  Navigate to the project directory:
+    ```bash
+    cd CSE-335-aarroy32
+    ```
 
+3.  Install dependencies (if applicable):
+    ```bash
+    npm install
+    ```
 
-Navigate to the project directory:
+---
 
-cd CSE-335-aarroy32
-
-
-Install dependencies (if applicable):
-
-npm install
-
-
-or, if using React Native:
-
-npx react-native setup
-
-Usage
-
-Run the mobile app locally using:
-
+## Usage
+Run the project using the following command:
+```bash
 npm start
-
-
-For Android:
-
-npx react-native run-android
-
-
-For iOS:
-
-npx react-native run-ios
-
-Features
-
-User Authentication: Secure login and registration system.
-
-Task Management: Add, update, and delete tasks within the mobile interface.
-
-Real-Time Data Sync: Synchronizes user data across sessions and devices.
-
-Push Notifications: Keeps users updated with important alerts or deadlines.
-
-Offline Mode: Allows limited functionality without internet access.
-
-Analytics Dashboard: Tracks app performance and user activity.
-
-Contributing
-
-Contributions are welcome! To contribute:
-
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-branch
-
-
-Make and commit your changes:
-
-git commit -m "Add new feature"
-
-
-Push to your forked repository:
-
-git push origin feature-branch
-
-
-Create a Pull Request.
-
-Developer
-
-App Developer: [Austin Arroyo] – CSE 335 Student
-GitHub: aarroy32
-
-Contact
-
-For any questions or issues, please reach out via GitHub Issues or contact the developer directly through GitHub.
