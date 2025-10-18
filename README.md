@@ -44,7 +44,7 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Create a Pull Request.
 
 ## Developer
-- **[Austin Arroyo]** -    
+- **[Austin Arroyo]**    
 
 ## Contact
 For any questions or issues, feel free to reach out via GitHub Issues or contact the team.
