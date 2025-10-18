@@ -1,7 +1,7 @@
 # This is CSE-335 Mobile App Development Project
 
 ## Project Overview
-This repository contains the project developed by **Austin Arroyo** for the **CSE 335: Mobile Application Development** course. The project is a **mobile application** designed to provide users with an intuitive and efficient experience. It demonstrates mobile app development best practices such as responsive UI design, data handling, and device integration, making it ideal for academic and professional mobile development projects.
+This repository contains the project developed by **Austin Arroyo** for the **CSE 335: Mobile Application Development** course. 
 
 ## Table of Contents
 - [Installation](#installation)
