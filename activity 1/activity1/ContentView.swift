@@ -26,7 +26,7 @@ struct ContentView: View {
                 Text("First Name:")
                 Spacer()
             }
-            TextField("Enter A", text: $firstName)
+            TextField("Enter Here", text: $firstName)
         
             HStack{
                 Text("Last Name:")
