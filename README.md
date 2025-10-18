@@ -1,4 +1,5 @@
-# This is CSE-335 Mobile App Development Project
+# CSE-335 Mobile App Development Project
+# Austin Arroyo - 1226280733
 
 ## Project Overview
 This repository contains the project developed by **Austin Arroyo** for the **CSE 335: Mobile Application Development** course. 
