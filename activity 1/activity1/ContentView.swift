@@ -33,7 +33,7 @@ struct ContentView: View {
                 Spacer()
             }
             
-            TextField("Enter here", text: $lastName)
+            TextField("Enter", text: $lastName)
             Spacer()
             
             Button("Greeting"){
